@@ -1,0 +1,6 @@
+{
+  "appId": "co.com.assystems.adgmovimientos",
+  "appName": "ADG Movimientos AS",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

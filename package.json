@@ -1,0 +1,18 @@
+{
+  "name": "adg-movimientos-as",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ADG Movimientos (réplica AS SYSTEMS) - control de movimientos financieros por usuario",
+  "scripts": { "build": "node build.mjs" },
+  "dependencies": {
+    "@capacitor/android": "8.5.2",
+    "@capacitor/core": "8.5.2",
+    "firebase": "12.19.0",
+    "xlsx": "0.18.5"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "8.5.2",
+    "esbuild": "0.25.10"
+  }
+}
